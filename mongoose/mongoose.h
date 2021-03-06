@@ -5829,3 +5829,5 @@ struct mg_connection *mg_sntp_get_time(struct mg_mgr *mgr,
 #endif
 
 #endif /* CS_MONGOOSE_SRC_SNTP_H_ */
+
+
